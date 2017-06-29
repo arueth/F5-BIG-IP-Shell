@@ -1,0 +1,8 @@
+shell:
+    name: F5 BIG-IP Shell
+    author: Aaron Rueth
+    email: aaron.r@quali.com
+    description: Shell to auto_load F5 BIG-UP resources
+    version: 0.3.0
+    driver_name: F5 BIG-IP Driver
+    networking_standard_version: 4.0.1
